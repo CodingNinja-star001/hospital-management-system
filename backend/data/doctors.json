@@ -1,0 +1,44 @@
+[
+  {
+    "id": "id_1776004472325_34eo7u",
+    "firstName": "Radhika ",
+    "lastName": "Sonone",
+    "name": "Radhika  Sonone",
+    "email": "sononeradhika1@gmail.com",
+    "phone": "8080636746",
+    "specialization": "Gynecologist",
+    "licenseNumber": "MD/2020/859674",
+    "availableHours": "9:00 AM - 5:00 PM",
+    "createdAt": "2026-04-12T14:34:32.325Z",
+    "updatedAt": "2026-04-12T14:34:32.325Z",
+    "status": "active"
+  },
+  {
+    "id": "id_1776014957564_znitu9",
+    "firstName": "Rohit",
+    "lastName": "Bharvade",
+    "name": "Rohit Bharvade",
+    "email": "rohit123@gmail.com",
+    "phone": "7896541238",
+    "specialization": "Dentist",
+    "licenseNumber": "MD/2021/7785",
+    "availableHours": "9:00 AM - 5:00 PM",
+    "createdAt": "2026-04-12T17:29:17.564Z",
+    "updatedAt": "2026-04-12T17:29:17.564Z",
+    "status": "active"
+  },
+  {
+    "id": "id_1776015357950_fjpnnb",
+    "firstName": "Raya ",
+    "lastName": " Patil",
+    "name": "Raya   Patil",
+    "email": "raya123@gmail.com",
+    "phone": "7745869125",
+    "specialization": "Psychiatrist",
+    "licenseNumber": "MD/2021/7755",
+    "availableHours": "9:00 AM - 5:00 PM",
+    "createdAt": "2026-04-12T17:35:57.950Z",
+    "updatedAt": "2026-04-12T17:35:57.950Z",
+    "status": "active"
+  }
+]

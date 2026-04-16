@@ -1,0 +1,19 @@
+[
+  {
+    "id": "id_1776072517558_5iym8h",
+    "billId": "BILL-1776072517558",
+    "patientName": "Shivani Dabhade",
+    "appointmentId": "",
+    "doctorName": "",
+    "consultationFee": 500,
+    "medicineFee": 600,
+    "labFee": 250,
+    "totalAmount": 1350,
+    "paymentMethod": "UPI",
+    "paymentStatus": "Paid",
+    "createdAt": "2026-04-13T09:28:37.558Z",
+    "razorpay_order_id": "order_SdMazwAwTyoeEC",
+    "razorpay_payment_id": "pay_SdMbQ2A8zOogqK",
+    "updatedAt": "2026-04-14T11:55:12.823Z"
+  }
+]
